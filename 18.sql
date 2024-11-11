@@ -1,0 +1,2 @@
+SELECT UPPER(first_name) AS NOME, UPPER(country) AS CONTINENTE FROM Customers ORDER BY NOME ASC
+
