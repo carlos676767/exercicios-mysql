@@ -1,0 +1,1 @@
+SELECT(AVG(customer_id) + AVG(age)) AS SOMA_TOTAL FROM Customers
