@@ -1,0 +1,1 @@
+SELECT DISTINCT * FROM Customers WHERE country = 'USA' ORDER  BY first_name ASC
